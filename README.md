@@ -1,8 +1,14 @@
 # github01
 <html>
-  
+<head>
+ <style>
+   h1{ color: blue;
+   }
+  </style>
+ 
+  </head>
   <body>
-  <h1>이렇게해도 되려나</h1>
+  <h1>html도 쓸수있네.</h1>
   </body>
   
   </html>
